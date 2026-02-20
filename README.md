@@ -1,4 +1,4 @@
-# Алексей Поздняков (AVPscan) 👋
+# Алексей Васильевич Поздняков (AVPscan) 👋
 
 **System Programming | Low-Level C Developer | High-Performance Architect**
 
