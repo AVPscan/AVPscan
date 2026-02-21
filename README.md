@@ -26,3 +26,4 @@
 
 [![Build on Linux](https://github.com/AVPscan/Fresh/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/AVPscan/Fresh/actions/workflows/Build%20on%20Linux.yml)
 [![Build on macOS](https://github.com/AVPscan/Fresh/actions/workflows/Build%20on%20macos.yml/badge.svg)](https://github.com/AVPscan/Fresh/actions/workflows/Build%20on%20macos.yml)
+[![Build on Windows](https://github.com/AVPscan/Fresh/actions/workflows/Build%20on%20windows.yml/badge.svg)](https://github.com/AVPscan/Fresh/actions/workflows/Build%20on%20windows.yml)
