@@ -23,3 +23,5 @@
 ---
 📡 **Связь со мной:** [avp70ru@mail.ru](mailto:avp70ru@mail.ru)  
 🔵 **Открыт для сложных задач по системному программированию и оптимизации.**
+
+**[![Build on Linux](https://github.com/AVPscan/Fresh/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/AVPscan/Fresh/actions/workflows/Build%20on%20Linux.yml)**
