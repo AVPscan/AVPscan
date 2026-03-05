@@ -24,7 +24,7 @@
 📡 **Связь со мной:** [avp70ru@mail.ru](mailto:avp70ru@mail.ru)  
 🔵 **Открыт для сложных задач по системному программированию и оптимизации.**
 
-[![Build on Linux](https://github.com/AVPscan/Fresh/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/AVPscan/Fresh/actions/workflows/Build%20on%20Linux.yml)
-[![Build on macOS](https://github.com/AVPscan/Fresh/actions/workflows/Build%20on%20macos.yml/badge.svg)](https://github.com/AVPscan/Fresh/actions/workflows/Build%20on%20macos.yml)
-[![Build on Windows](https://github.com/AVPscan/Fresh/actions/workflows/Build%20on%20windows.yml/badge.svg)](https://github.com/AVPscan/Fresh/actions/workflows/Build%20on%20windows.yml)
+[![Build on Linux](https://github.com/AVPscan/Products/actions/workflows/build-linux.yml/badge.svg)](https://github.com/AVPscan/Products/actions/workflows/build-linux.yml)
+ [![Build on Windows](https://github.com/AVPscan/Products/actions/workflows/build-windows.yml/badge.svg)](https://github.com/AVPscan/Products/actions/workflows/build-windows.yml)
+ [![Build on macOS](https://github.com/AVPscan/Products/actions/workflows/build-macos.yml/badge.svg)](https://github.com/AVPscan/Products/actions/workflows/build-macos.yml)
 [![Linux musl static +(Cross-Platform)](https://github.com/AVPscan/Fresh/actions/workflows/release.yml/badge.svg)](https://github.com/AVPscan/Fresh/actions/workflows/release.yml)
