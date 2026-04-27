@@ -58,4 +58,5 @@
 **Открыт для сложных задач по системному программированию и оптимизации.** Но главное — я создаю вещи, которые не устареют через год.
 ---
 *P.S. Да, это всё работает даже по SSH. Да, на Raspberry Pi. Да, на 32-битном процессоре. Да, без видеокарты. Нет, это не магия. Это просто C и 35 лет правильного опыта, который однажды превратился в подарок для жены, а потом — в инструмент для всего мира.*
+
 [![Linux musl static +(Cross-Platform)](https://github.com/AVPscan/Fresh/actions/workflows/release.yml/badge.svg)](https://github.com/AVPscan/Fresh/actions/workflows/release.yml)
