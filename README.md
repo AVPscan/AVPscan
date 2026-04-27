@@ -13,7 +13,7 @@
 
 ## 🚀 Ключевые проекты
 
-### [Fresh](https://github.com/AVPscan/Fresh) — среда исполнения будущего
+### [Fresh](https://github.com/AVPscan/Fresh) — среда исполнения
 
 **19 КБ.MuslStatic** Первая Runtime Environment, полностью независимая от ОС, процессора, видеокарты и библиотек.
 
